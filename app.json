@@ -1,0 +1,17 @@
+{
+  "name": "sfdx-dreamhouse",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "salesforce"
+    }
+  ]
+}
